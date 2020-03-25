@@ -12,6 +12,3 @@ The algorithms used were:
 
 The accuracies were compared in the last part and the trend was predicted to the user.
 
-For a full detailed report on the project documentation see:
-
-(https://github.com/cirimia49/Stock-Market-Prediction-using-Machine-Learning-Algorithms/blob/master/Stock%20market%20prediction_Master%20Project.pdf)
