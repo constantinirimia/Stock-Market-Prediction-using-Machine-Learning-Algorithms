@@ -12,3 +12,8 @@ The algorithms used were:
 
 The accuracies were compared in the last part and the trend was predicted to the user.
 
+
+Created by :+1:  ***@Constantin Irimia***
+
+LinkedIn: https://www.linkedin.com/in/constantin-irimia-0294ab112/
+
